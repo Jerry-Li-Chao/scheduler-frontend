@@ -3,6 +3,10 @@
 ## Website is deployed on
 https://jerryli-final-project-task-manager.surge.sh/
 
+## Passing 10 Tests
+
+![Passing 10 Tests](10TestsPassed.png)
+
 ## Tips for using this scheduler
 
 - "My Schedule" Tab provides you a view of your tasks filtered by the priority levels of the task
